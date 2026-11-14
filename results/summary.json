@@ -1,0 +1,13 @@
+{
+  "video": "vehicles.mp4",
+  "frames": 538,
+  "fps": 25.0,
+  "crossed_line_in": 3,
+  "crossed_line_out": 5,
+  "tracked_vehicles_with_speed": 10,
+  "by_class": {
+    "truck": 2,
+    "car": 8
+  },
+  "mean_speed_kmh": 116.6
+}

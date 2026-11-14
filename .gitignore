@@ -1,0 +1,5 @@
+results/annotated.mp4
+results/calibration_grid.jpg
+*.pt
+*.log
+__pycache__/
